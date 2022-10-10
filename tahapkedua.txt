@@ -1,0 +1,5 @@
+Rencana Konten
+- Belajar JAVASCRIPT
+  *ES6
+  *Framework JavaScript
+-  Belajar PHP
