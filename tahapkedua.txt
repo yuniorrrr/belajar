@@ -2,4 +2,5 @@ Rencana Konten
 - Belajar JAVASCRIPT
   *ES6
   *Framework JavaScript
+- Struktur data dasar
 -  Belajar PHP
