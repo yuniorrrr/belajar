@@ -2,5 +2,8 @@ Rencana Konten
 - Belajar JAVASCRIPT
   *ES6
   *Framework JavaScript
+  ^vue
+  ^react
 - Struktur data dasar
 -  Belajar PHP
+  *Larafel
